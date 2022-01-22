@@ -1,0 +1,15 @@
+{
+  "name": "phonetic",
+  "version": "1.0.0",
+  "description": "Transform args to NATO phonetic alphabet",
+  "main": "phonetic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Setzer",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "phonetic": "./main.js"
+  }
+}
