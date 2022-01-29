@@ -1,8 +1,8 @@
 {
-  "name": "phonetic",
+  "name": "nato-phonetic",
   "version": "1.0.0",
   "description": "Transform string into NATO phonetic alphabet",
-  "main": "lib/phonetic.js",
+  "main": "lib/nato-phonetic.js",
   "scripts": {
     "test": "jest"
   },
