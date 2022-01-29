@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
-require('./lib/phonetic.js')
+const Phonetic = require("./lib/phonetic.js");
 
-console.log(process.argv.slice(2).join(' ').toPhonetic())
+const str = new Phonetic(process.argv[2]);
+console.log(str.toPhonetic());
