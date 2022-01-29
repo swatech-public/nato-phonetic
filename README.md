@@ -1,2 +1,3 @@
 # nato-phonetic
-Convert strings to the NATO phonetic alphabet
+
+NPM module to convert strings to the NATO phonetic alphabet
