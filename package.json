@@ -1,6 +1,6 @@
 {
   "name": "nato-phonetic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform string into NATO phonetic alphabet",
   "main": "lib/nato-phonetic.js",
   "scripts": {
